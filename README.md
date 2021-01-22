@@ -8,7 +8,7 @@ Simple explainations and walkthroughs that will assist you in learning difficult
 2. Enter the folder of the resource you want to use and read the markdown.
 
 ## How to contribute
-Contributing is very easy! If you have learned someting new on the <a href="">Full Stack Road Map</a> and you believe it will be a great additon to the repo then follow these steps to contribute:
+Contributing is very easy! If you have learned someting new on the <a href="https://roadmap.sh/">Full Stack Road Map</a> and you believe it will be a great additon to the repo then follow these steps to contribute:
 
 1. Fork this repo.
 2. Make changes and add some fire stuff!
