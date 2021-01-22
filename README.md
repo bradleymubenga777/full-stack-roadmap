@@ -4,7 +4,7 @@ A guideline for aspiring full-stack web developers.
 Simple explainations and walkthroughs that will assist you in learning difficult concepts, some resources will contain links to external pages that will help you learn more.
 
 ## How to use this resource
-1. Switch to the `full-stack-roadmap` branch, there you will find a font-end and back-end folder. 
+1. Switch to the `full-stack` branch, there you will find a font-end and back-end folder. 
 2. Enter the folder of the resource you want to use and read the markdown.
 
 ## How to contribute
